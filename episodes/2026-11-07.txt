@@ -1,0 +1,27 @@
+Bonjour Ziryab, et bienvenue dans votre veille techno. Nous sommes le samedi 7 novembre 2026. Voici, en cinq minutes, ce qu'il faut retenir de la semaine.
+
+On commence par l'essentiel. Trois idées à garder en tête. Un : la bourse tech a tremblé jeudi, et le doute sur les investissements dans l'intelligence artificielle s'installe. Deux : moins d'une entreprise sur dix a vraiment industrialisé l'IA. Trois : le plus gros vol de l'histoire des cryptomonnaies a commencé par un faux recruteur. Entrons dans le détail.
+
+Premier sujet, l'IA en entreprise. Une étude du groupe indien TCS, relayée par LeMagIT, montre que moins de dix pour cent des entreprises ont réussi à passer l'IA, et notamment l'IA agentique, à l'échelle. Les freins ? Des coûts difficiles à prévoir, la qualité des données, et la cybersécurité. Pour vous, c'est un signal clair : les directions générales ne cherchent plus seulement un DSI qui lance des pilotes. Elles cherchent quelqu'un capable de passer en production, en tenant un budget.
+
+Deuxième sujet, les marchés. Jeudi 5 novembre, le Nasdaq a perdu plus de cinq pour cent, et le S and P 500 plus de quatre pour cent. Les fournisseurs d'énergie des centres de données ont suivi la baisse. Selon la presse, les investisseurs s'inquiètent du rythme de construction des datacenters, au lendemain des élections de mi-mandat américaines. C'est une interprétation, pas une certitude. Mais la conséquence est prévisible : les comités de direction vont demander des comptes sur le retour sur investissement de l'IA. Le DSI qui sait mesurer la valeur va gagner en poids.
+
+Côté français, Mistral AI rachète SkipLabs, une start-up spécialisée en programmation réactive. Objectif : créer une équipe dédiée à la vérification du code généré par l'IA. Retenez l'idée : la qualité du code produit par les machines devient un métier à part entière.
+
+Passons à la cybersécurité, avec une histoire que vous pourrez raconter en rendez-vous. Binance, la plateforme de cryptomonnaies, s'est fait voler six virgule trois milliards de dollars. Le FBI attribue l'attaque à un groupe nord-coréen. Et le point de départ, c'est un faux recruteur. Des ingénieurs ont reçu un exercice technique piégé, comme lors d'un entretien d'embauche. Les pirates ont ensuite rebondi par un outil d'IA interne, jusqu'au service qui valide les virements. Environ deux virgule huit milliards ont pu être gelés. Leçon pour vos clients : le processus de recrutement fait désormais partie de la surface d'attaque.
+
+Autre affaire, à New York cette fois : trois hommes sont inculpés pour avoir imité, grâce à l'IA, la voix et parfois le visage de dirigeants et d'avocats. Préjudice total : plus de cent vingt-neuf millions de dollars. C'est la fraude au président version deux point zéro, et c'est un sujet qui parle aux DG et aux directeurs financiers, pas seulement aux DSI.
+
+Enfin, pour les plus techniques : une faille baptisée SSHole a touché OpenSSH sur certains serveurs Linux. Elle permettait de se connecter sans mot de passe valide, et elle a été exploitée en quelques heures. Le correctif est disponible. Une bonne question à poser à un DSI : avez-vous patché SSHole ?
+
+Un mot sur le cloud. Selon le site d'analyse Cloud Wars, AWS a progressé de trente-neuf pour cent au troisième trimestre, et Google Cloud a presque doublé son chiffre d'affaires. Microsoft progresse de trente pour cent, mais son carnet de commandes cloud recule légèrement pour la première fois. Chiffres à confirmer, mais la tendance est nette : la bataille des hyperscalers se joue aussi dans les DSI, où les profils multicloud et FinOps restent rares.
+
+Côté réglementation européenne, notez une date : le 2 décembre 2026. Ce jour-là, les contenus générés par IA devront porter un marquage lisible par machine. En revanche, les obligations sur l'IA à haut risque, qui couvrent par exemple le recrutement assisté par IA, sont repoussées à décembre 2027. C'est un bon argument pour recruter un profil gouvernance de l'IA, ou un Chief AI Officer.
+
+Vu d'ailleurs, maintenant. Au Royaume-Uni, l'agence nationale de cybersécurité juge très probable qu'une attaque par rançongiciel dopée à l'IA frappe une infrastructure critique britannique d'ici 2028. C'est une projection, mais elle donne le ton du discours des autorités en Europe.
+
+Côté mouvements de dirigeants, le titre de Chief AI Officer se répand. Aux États-Unis, Mars, BD et Centene ont nommé de nouveaux responsables du numérique ce mois-ci. Et HP Inc. aurait choisi Emma Walmsley, l'ancienne patronne de GSK, comme future directrice générale. Information à confirmer.
+
+Pour finir, votre phrase d'accroche de la semaine : moins d'une entreprise sur dix a vraiment industrialisé l'IA. Chez vous, qui porte ce passage à l'échelle, et a-t-il le bon profil pour le faire ?
+
+C'était votre veille techno. Bonne fin de semaine, Ziryab, et à lundi.
