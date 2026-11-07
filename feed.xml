@@ -13,12 +13,12 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
     <item>
-      <title>Épisode test · Semaine du 2 au 7 novembre 2026</title>
-      <description>Industrialisation de l&#x27;IA, repli boursier, Binance et le faux recruteur, AI Act au 2 décembre.</description>
+      <title>Samedi 7 nov. · Agents IA hors contrôle, cyber à 250 M€</title>
+      <description>Les DSI perdent la main sur les agents IA, Ahold Delhaize chiffre sa cyberattaque, OpenAI lance GPT-6 Cyber.</description>
       <pubDate>Sat, 07 Nov 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">veille-2026-11-07.mp3</guid>
-      <enclosure url="https://ziryabus.github.io/veille-podcast/episodes/2026-11-07.mp3" length="1601712" type="audio/mpeg"/>
-      <itunes:duration>266</itunes:duration>
+      <enclosure url="https://ziryabus.github.io/veille-podcast/episodes/2026-11-07.mp3" length="1485072" type="audio/mpeg"/>
+      <itunes:duration>247</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
