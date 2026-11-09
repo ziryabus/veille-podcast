@@ -13,6 +13,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>Frigos piratés en Europe, l&#x27;IA revoit ses prix</title>
+      <description>Cyberattaques sur la chaîne du froid en Europe ; valorisations d&#x27;OpenAI et Anthropic en baisse ; Mistral passe aux agents gérés</description>
+      <pubDate>Mon, 09 Nov 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">veille-2026-11-09.mp3</guid>
+      <enclosure url="https://ziryabus.github.io/veille-podcast/episodes/2026-11-09.mp3" length="1508976" type="audio/mpeg"/>
+      <itunes:duration>251</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Samedi 7 nov. · Agents IA hors contrôle, cyber à 250 M€</title>
       <description>Les DSI perdent la main sur les agents IA, Ahold Delhaize chiffre sa cyberattaque, OpenAI lance GPT-6 Cyber.</description>
       <pubDate>Sat, 07 Nov 2026 07:00:00 +0000</pubDate>
