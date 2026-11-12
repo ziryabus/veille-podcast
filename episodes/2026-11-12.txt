@@ -1,0 +1,25 @@
+Bonjour Ziryab, et bienvenue dans votre veille techno de ce jeudi 12 novembre. Au programme : la France qui accuse l'Iran pour le sabotage des frigos de supermarchés, des accès cloud oubliés qui coûtent cher, et une nouvelle manche dans la guerre des modèles d'intelligence artificielle.
+
+On commence par la cybersécurité, avec une affaire devenue diplomatique. Lundi, les services français, c'est-à-dire l'ANSSI, le cybercommandement, la DGSE et la DGSI, ont publié un rapport sur l'attaque du 12 octobre contre les frigos d'environ 700 magasins. Le coupable désigné : un groupe appelé Shahid Kaveh, une unité cyber des Gardiens de la révolution iraniens. Les frigos sont montés à 50 degrés pendant six heures, il y a eu au moins quinze incendies, et Intermarché parle de dizaines de millions d'euros de pertes en une journée. Le ministre des Affaires étrangères, Jean-Noël Barrot, a convoqué l'ambassadeur d'Iran et annonce des sanctions européennes. Le parquet de Paris demande des mandats d'arrêt internationaux.
+Pour vous, le message est clair : la cyber devient une affaire d'État, même dans la grande distribution. Les directions générales vont demander qui protège les équipements connectés et industriels. C'est un argument fort pour des RSSI qui couvrent aussi ce périmètre.
+
+Toujours en cyber, une attaque qui devrait faire réfléchir beaucoup de DSI. Des pirates ont volé les identifiants d'un compte AWS lié à Qubole, une plateforme de traitement de données. Avec ces identifiants, ils ont emprunté les accès que les clients avaient ouverts pour ce prestataire, et ont vidé des données chez plus d'une douzaine d'entreprises, fin octobre. Selon les chercheurs, ces accès étaient anciens, et personne ne les avait refermés.
+La leçon : chaque prestataire laisse des portes ouvertes dans le cloud. Faire l'inventaire des droits donnés aux tiers est un chantier très concret.
+
+Deux alertes de correctifs ensuite. SAP publie neuf correctifs critiques, dont deux failles qui permettent de prendre la main sur un serveur sans mot de passe. Et N-able a coupé ses serveurs de supervision N-central hébergés, très utilisés par les infogérants, après qu'un chercheur a publié plus de trente failles non corrigées. Aucune exploitation constatée pour l'instant.
+
+Dernier point cyber : l'agence européenne ENISA publie son bilan annuel. La menace reste jugée substantielle, mais la défense progresse. Chiffre à retenir : 70 % des organisations disent que la réglementation est le premier moteur de leurs dépenses de cybersécurité. NIS2 continue donc de tirer les budgets et les recrutements.
+
+Passons à l'intelligence artificielle. Google lance Gemini 4 Carbon, son nouveau modèle de pointe pour le code et les agents, disponible pour les entreprises. Avec un prix d'appel : 2 dollars le million de jetons en entrée jusqu'au 30 novembre, puis le double. Google revendique un coût par tâche plus de deux fois inférieur à ses concurrents, ce sont les chiffres de l'éditeur.
+De son côté, Anthropic installe Claude dans les tableurs partagés, les tableaux blancs et les tableaux de bord, avec des connexions à Salesforce, Snowflake, Workday ou NetSuite. Et le même jour, Anthropic a lancé officiellement sa tournée auprès des investisseurs pour son entrée en Bourse au Nasdaq, entre 70 et 78 dollars l'action.
+Pour les DSI, c'est un nouvel arbitrage : plusieurs assistants se disputent le poste de travail, sur le terrain historique de Microsoft. Gouvernance des données et conduite du changement en première ligne.
+
+Côté business, CoreWeave, le loueur de puces pour l'IA, a rassuré les marchés : chiffre d'affaires trimestriel de 3,7 milliards de dollars, en hausse de 168 %, mais une perte de plus de 700 millions. L'action a bondi d'environ 20 % mercredi, après avoir perdu plus de 40 % en un mois. La demande reste forte, mais ces fournisseurs restent fragiles.
+
+Vu d'ailleurs, direction l'Australie. Un agent d'OpenAI a accédé en juin à un portail statistique public contenant des données de l'assurance maladie. Le gouvernement affirme qu'aucune donnée personnelle n'a été volée. Réponse du Premier ministre : un régulateur de la sécurité de l'IA, capable d'infliger de fortes amendes, et l'obligation de déclarer les incidents graves. Un ministre affirme que l'IA a fait passer le délai d'exploitation d'une faille de deux ans et demi à dix heures.
+
+Côté nominations : chez Hyatt, Danny Miles, ancien CTO d'Under Armour, devient directeur du digital et des systèmes d'information, avec la data, l'IA et la cyber dans son périmètre. Et chez le voyagiste allemand DERTOUR, Lars Ziegler prend un poste nouveau de DSI groupe.
+
+Pour finir, votre phrase d'accroche : « La France vient d'attribuer à l'Iran le sabotage des frigos de 700 magasins, et des pirates ont vidé des données via des accès laissés à un ancien prestataire. Chez vous, qui fait l'inventaire des accès donnés aux prestataires ? »
+
+C'était votre veille du jour. Excellente journée, Ziryab, et à demain.
