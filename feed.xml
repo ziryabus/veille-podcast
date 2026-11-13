@@ -13,6 +13,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>Nvidia sans Jensen Huang, Maersk piraté, cloud européen</title>
+      <description>Départ de Jensen Huang chez Nvidia · Maersk piraté via un système hérité · Les eurodéputés et le cloud souverain</description>
+      <pubDate>Fri, 13 Nov 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">veille-2026-11-13.mp3</guid>
+      <enclosure url="https://ziryabus.github.io/veille-podcast/episodes/2026-11-13.mp3" length="1453248" type="audio/mpeg"/>
+      <itunes:duration>242</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>La France accuse l&#x27;Iran, accès cloud oubliés, Gemini 4 Carbon</title>
       <description>Frigos sabotés attribués à l&#x27;Iran · Attaque Qubole via des accès AWS oubliés · Gemini 4 Carbon et Claude au bureau</description>
       <pubDate>Thu, 12 Nov 2026 07:00:00 +0000</pubDate>
