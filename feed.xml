@@ -13,6 +13,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>Récap de la semaine du 9 au 13 novembre</title>
+      <description>Départ de Jensen Huang chez Nvidia · Entrée en Bourse d&#x27;Anthropic · Cyber : l&#x27;Iran désigné, les prestataires en première ligne</description>
+      <pubDate>Sat, 14 Nov 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">veille-2026-11-14.mp3</guid>
+      <enclosure url="https://ziryabus.github.io/veille-podcast/episodes/2026-11-14.mp3" length="4490208" type="audio/mpeg"/>
+      <itunes:duration>748</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Nvidia sans Jensen Huang, Maersk piraté, cloud européen</title>
       <description>Départ de Jensen Huang chez Nvidia · Maersk piraté via un système hérité · Les eurodéputés et le cloud souverain</description>
       <pubDate>Fri, 13 Nov 2026 07:00:00 +0000</pubDate>

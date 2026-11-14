@@ -1,0 +1,97 @@
+Bonjour Ziryab, voici le récap de la semaine. Nous sommes le samedi 14 novembre, et je reviens avec vous sur les dix infos qui ont marqué la semaine du 9 au 13 novembre, puis sur trois tendances de fond, ce qui se dit ailleurs, les mouvements de dirigeants, et ce qu'il faut surveiller la semaine prochaine.
+
+En trois lignes. Nvidia perd son fondateur : Jensen Huang démissionne, sans successeur prêt. Anthropic arrive en Bourse jeudi prochain, avec une demande environ six fois supérieure à l'offre. Et la cybersécurité passe au niveau des États et des conseils d'administration : la France accuse l'Iran d'avoir saboté des centaines de magasins, et les fuites de la semaine viennent surtout des prestataires et des vieux systèmes.
+
+Commençons par l'info de la semaine. Nvidia.
+
+Dimanche dernier, Jensen Huang a reconnu dans une note interne une liaison avec une ancienne dirigeante d'un fournisseur d'infrastructure IA basé à Singapour. Selon le New York Times, le renseignement américain la soupçonne d'avoir été recrutée par Pékin. Lundi, le conseil a lancé une enquête indépendante, et l'action a reculé de plus de quatre pour cent. Jeudi, coup de théâtre : Jensen Huang quitte la présidence, la direction générale et le conseil, avec effet immédiat, après trente-trois ans à la tête de l'entreprise qu'il a fondée. La directrice financière, Colette Kress, devient PDG par intérim tout en gardant ses fonctions financières. Harvey Jones, administrateur depuis 1993, devient le premier président du conseil de l'histoire de Nvidia. Vendredi, le conseil indiquait n'en être qu'au choix d'un cabinet de recrutement. Selon le Financial Times, le patron d'Arm, Rene Haas, aurait été approché ; le conseil parle de spéculation prématurée. Précision importante : aucune preuve n'a été publiée que Jensen Huang ait aidé la Chine. Sur la semaine, l'action Nvidia a perdu près de treize pour cent.
+
+Pourquoi c'est important pour vous ? Parce que l'entreprise la plus stratégique de l'IA n'avait pas de plan de succession public. C'est sans doute la meilleure porte d'entrée de la semaine pour parler de succession des dirigeants avec un DG ou un DRH. La question est simple : si votre DSI ou votre CTO partait demain, qui reprendrait ?
+
+Deuxième info : Anthropic, sur deux fronts.
+
+Lundi, Anthropic a lancé deux nouveaux modèles, Fable 5.2 et Mythos 5.2. Ils progressent en code, en raisonnement et en vision, répondent plus vite, et Fable baisse de prix. Mythos reste réservé à des clients vérifiés, notamment en cyber et en sciences de la vie. Mardi, Anthropic a officiellement lancé la tournée des investisseurs pour son entrée en Bourse. Les chiffres : huit cent vingt-cinq millions d'actions, entre soixante-dix et soixante-dix-huit dollars, soit jusqu'à soixante-quatre milliards de dollars levés. La cotation au Nasdaq est attendue jeudi 19 novembre, sous le code A, N, T. Selon Bloomberg, la demande atteint environ six fois l'offre. Le fondeur taïwanais TSMC prévoit d'en acheter jusqu'à cinq cents millions de dollars, et autant chez OpenAI. La valorisation citée varie selon les sources, entre mille deux cents et mille quatre cents milliards de dollars.
+
+Pour vous, retenez ceci : une entreprise cotée doit publier ses comptes et rassurer sur la durée. Pour un DSI qui choisit un fournisseur d'IA, c'est un argument de transparence et de solidité.
+
+Troisième info : les frigos sabotés. La France désigne l'Iran.
+
+Le 9 novembre, le centre de coordination des crises cyber, qui réunit l'ANSSI, le cybercommandement, la DGSE et la DGSI, a attribué l'attaque du 12 octobre à une unité cyber des Gardiens de la révolution iraniens. Environ sept cents magasins avaient été touchés, avec des frigos montés à cinquante degrés et au moins quinze incendies selon le site The Record. L'ambassadeur d'Iran a été convoqué et Paris demande des sanctions européennes. Une seconde vague, début novembre, a touché une dizaine de pays européens et même des chambres froides de l'Établissement français du sang, mais elle n'est pas attribuée à ce stade.
+
+Ce qu'il faut en retenir : les équipements connectés qui ne dépendent pas de la DSI deviennent un risque d'État. C'est un argument fort pour des RSSI qui couvrent aussi l'informatique industrielle, dans la distribution, la santé ou l'agroalimentaire.
+
+Quatrième info : un Patch Tuesday record, et l'IA qui trouve les failles.
+
+Mardi, Microsoft a corrigé mille quatre-vingt-treize failles selon l'éditeur Tenable, et jusqu'à mille deux cent trente-cinq selon d'autres décomptes. Du jamais vu. L'une d'elles, dans Outlook, était déjà exploitée. Détail marquant : elle a été découverte par un chercheur qui s'est servi de Claude, le modèle d'Anthropic. La même semaine, SAP, Fortinet et Barracuda ont publié des correctifs critiques, Chrome a corrigé sa huitième faille déjà exploitée de l'année, et Microsoft 365 a connu jeudi une panne de plus de cinq heures sur Outlook.
+
+Pour vous : l'intelligence artificielle fait exploser le nombre de failles trouvées, donc le travail de correction. Les équipes de gestion des vulnérabilités sont débordées, c'est un besoin de recrutement très concret.
+
+Cinquième info : Qantas confie huit cent cinquante postes de son siège à Accenture.
+
+La compagnie australienne a annoncé un partenariat de sept ans. La finance, les achats, les ressources humaines et le marketing partiront chez Accenture, surtout en Inde, à partir de mi-2027. L'objectif affiché : moderniser plus de mille applications héritées, avec l'automatisation et l'IA. La valeur du contrat n'est pas communiquée.
+
+C'est exactement le scénario que beaucoup de DG regardent : dette applicative, plus IA, plus externalisation. Il demande des DSI capables de piloter un grand contrat d'infogérance, des responsables de la relation fournisseurs, et des directeurs de transformation.
+
+Sixième info : le risque vient des prestataires.
+
+Trois cas cette semaine. D'abord Qubole : des pirates ont utilisé des accès AWS que des clients avaient ouverts pour cet ancien prestataire data, et ne lui avaient jamais retirés. Résultat : les données de plus d'une douzaine d'entreprises vidées. Ensuite Fireworks AI, une plateforme qui fait tourner des modèles d'IA pour environ dix mille clients : piratée deux fois, avec des données de facturation et parfois des jeux de données exposés. Par ricochet, des conversations de Notion AI ont été exposées, sur moins d'un pour cent des espaces de travail. Enfin TSMC confirme que des données de salariés circulent en ligne, à partir de fichiers détenus par un fournisseur cloud non nommé.
+
+Le message pour vos clients : chaque prestataire, passé ou présent, est une porte d'entrée. La gouvernance des identités et le risque tiers sont des chantiers qui recrutent.
+
+Septième info : Maersk, piraté par un système hérité d'un rachat.
+
+Le transporteur danois a confirmé un vol de données sur un ancien système issu du rachat de LF Logistics, en 2022. Le groupe de pirates WhiteArmor revendique environ cent gigaoctets et réclame cinq millions de dollars. Ces revendications ne sont pas vérifiées, et Maersk parle d'un incident isolé, sans impact sur ses opérations.
+
+Quatre ans après un rachat, un système oublié coûte cher. L'intégration informatique après une acquisition, avec un inventaire et un responsable désigné, est un vrai sujet pour tous les groupes qui achètent.
+
+Huitième info : la guerre des prix et la bataille du poste de travail.
+
+Google a lancé Gemini 4 Carbon, son nouveau modèle de pointe, à prix d'appel jusqu'au 30 novembre, avant de doubler son tarif. Anthropic a sorti Claude Sheets, des tableurs partagés, et Claude Data, qui se connecte à Snowflake et Salesforce. Databricks a présenté des agents qui tournent en permanence en arrière-plan. Et OpenAI vend désormais ChatGPT Enterprise sur la place de marché d'Amazon Web Services : la dépense peut être imputée sur les engagements cloud déjà signés.
+
+Pour vous : l'IA générative passe du budget innovation au budget cloud et bureautique. Il faut des architectes capables de changer de modèle facilement, du pilotage des coûts de l'IA, et surtout des données bien gouvernées.
+
+Neuvième info : le marché du calcul IA se tend.
+
+Selon Bloomberg et Reuters, Microsoft réduit ses locations de puissance de calcul chez les loueurs spécialisés, qu'on appelle les neoclouds, comme CoreWeave ou Nebius, pour privilégier ses propres datacenters. Les actions de ces loueurs avaient perdu environ la moitié de leur valeur en un mois. Mercredi, CoreWeave a rassuré : trois milliards sept cents millions de dollars de chiffre d'affaires sur le trimestre, en hausse de cent soixante-huit pour cent, mais une perte de sept cent neuf millions. L'action a bondi de vingt pour cent.
+
+La demande reste forte, mais ces fournisseurs restent fragiles. C'est un bon sujet de risque fournisseur à aborder avec un DSI ou un directeur financier.
+
+Dixième info : l'Europe et la souveraineté.
+
+Au Parlement européen, un projet de rapport sur le futur règlement appelé Cloud and AI Development Act veut réduire la dépendance aux trois grands fournisseurs non européens, qui détiennent plus de soixante-dix pour cent du marché, et mieux protéger les secteurs critiques comme la santé, l'énergie et les transports. En parallèle, l'agence européenne de cybersécurité, l'ENISA, publie son bilan 2026 : la menace est jugée substantielle, et soixante-dix pour cent des organisations citent la conformité réglementaire comme premier moteur de leurs dépenses cyber.
+
+Pour vous : la souveraineté et la directive NIS2 vont peser sur les appels d'offres et sur les budgets. Architectes de cloud hybride, RSSI et responsables conformité restent très demandés.
+
+Passons maintenant aux trois tendances de fond.
+
+Première tendance : le risque vient de l'héritage et des tiers. Qubole, Fireworks, Maersk, TSMC, mais aussi l'outil de supervision N-able ou la fuite chez Amadeus la semaine précédente : presque toutes les fuites passent par un prestataire ou par un vieux système oublié. L'inventaire des accès et des applications devient une priorité de comité de direction.
+
+Deuxième tendance : l'IA devient une commodité qu'on achète comme le cloud. Les prix baissent chaque semaine, les modèles s'achètent sur les places de marché, et les éditeurs attaquent la bureautique et la data. La question n'est plus de savoir s'il faut de l'IA, mais qui pilote son coût, ses données et le choix des modèles.
+
+Troisième tendance : la gouvernance et la géopolitique montent au conseil. Succession chez Nvidia, cyberattaque attribuée à un État, quotas de puces pour la Chine, souveraineté du cloud : les sujets technologiques remontent au niveau des conseils d'administration. Et avec eux, le besoin de dirigeants IT à l'aise devant un board.
+
+Vu d'ailleurs, maintenant.
+
+En Australie, après qu'un agent d'OpenAI a accédé à un portail public contenant des données de l'assurance maladie, le gouvernement crée un régulateur de la sécurité de l'IA. Les éditeurs devront déclarer les incidents graves et accepter des tests externes. La loi est attendue en 2027.
+
+Au Japon, Mitsui Chemicals rachète JSR, grand fabricant des résines qui servent à graver les puces, pour environ onze milliards six cents millions de dollars, avec l'appui de la banque publique de développement. Tokyo assume une politique industrielle sur les semi-conducteurs. Côté cyber, le distributeur Nitori signale jusqu'à trente-sept millions de fiches clients potentiellement exposées.
+
+Aux États-Unis, l'indice Ramp, qui suit les dépenses de plus de quatre-vingt-cinq mille entreprises, montre un record de dépenses en IA en octobre, mais une croissance qui ralentit. Fait notable : Anthropic est désormais utilisé par plus d'entreprises qu'OpenAI dans cet échantillon, quarante-cinq pour cent contre quarante et un.
+
+Les mouvements de dirigeants IT.
+
+Chez Nvidia, donc, Colette Kress assure l'intérim, et Harvey Jones préside le conseil. Chez Hyatt, Danny Miles, ancien CTO d'Under Armour, devient Chief Digital and Information Officer et entre au comité de direction. Le groupe de tourisme allemand DERTOUR crée un poste de CIO groupe, confié à Lars Ziegler, auquel tous les CIO locaux sont rattachés. Chez le gestionnaire d'actifs Capital Group, Guillermo Veiga, venu de Standard Chartered, prend ses fonctions de CIO. L'intégrateur américain Presidio nomme Doran Stienike CIO. Enfin, Donald Trump propose Michael LoSapio, RSSI de Palantir, pour diriger l'agence cyber américaine, la CISA ; la nomination doit encore être confirmée par le Sénat.
+
+Ce qu'il faut surveiller la semaine prochaine.
+
+Mardi 17 novembre : les résultats trimestriels de Nvidia, les premiers sous la direction de Colette Kress. Mercredi 18 : la fixation du prix de l'introduction en Bourse d'Anthropic. Le même jour, des élus américains ont demandé à entendre Jensen Huang au Congrès, mais l'audition n'est pas confirmée. Jeudi 19 : la première cotation d'Anthropic au Nasdaq, selon des dates rapportées par la presse et qui peuvent encore bouger. Le 30 novembre, fin du prix d'appel de Gemini 4 Carbon. Et le 1er décembre, débat en commission au Parlement européen sur le Cloud and AI Development Act. À suivre aussi, la proposition de Digital Fairness Act présentée par la Commission européenne, avec des amendes qui pourraient atteindre six pour cent du chiffre d'affaires mondial.
+
+Pour finir, trois phrases d'accroche pour vos rendez-vous de la semaine.
+
+Une : « Nvidia a perdu son PDG du jour au lendemain, sans successeur prêt. Chez vous, si votre DSI ou votre CTO partait demain, qui reprendrait ? »
+
+Deux : « Cette semaine, Maersk et une douzaine de clients de Qubole se sont fait voler des données par d'anciens accès ou d'anciens systèmes. Qui, chez vous, fait l'inventaire de ce dont vous avez hérité ? »
+
+Trois : « Les prix de l'IA baissent chaque semaine, et elle s'achète maintenant comme du cloud. Qui pilote chez vous le coût et le choix des modèles : la DSI, les achats, ou les métiers ? »
+
+C'était le récap de la semaine. Le rapport complet, avec tous les liens, est dans votre boîte mail. Je vous retrouve lundi matin pour la veille quotidienne. D'ici là, bon week-end.
