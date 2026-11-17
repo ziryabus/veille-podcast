@@ -13,6 +13,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>Optimizely piégé, Ipsos touché, la Fed s&#x27;inquiète de l&#x27;IA</title>
+      <description>Attaque via Optimizely (Air France, Thales, HSBC) ; intrusion chez Ipsos ; la Fed place l&#x27;IA en tête des risques, Nvidia publie ce soir</description>
+      <pubDate>Tue, 17 Nov 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">veille-2026-11-17.mp3</guid>
+      <enclosure url="https://ziryabus.github.io/veille-podcast/episodes/2026-11-17.mp3" length="1361520" type="audio/mpeg"/>
+      <itunes:duration>226</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Nvidia sous pression, fuite Maileva, 100 000 failles</title>
       <description>Washington demande un grand ménage chez Nvidia · Maileva (La Poste) : 22 millions de personnes touchées · Plus de 100 000 failles publiées en 2026</description>
       <pubDate>Mon, 16 Nov 2026 07:00:00 +0000</pubDate>
