@@ -13,6 +13,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>Anthropic en Bourse, l&#x27;IA qui attaque</title>
+      <description>IPO record d&#x27;Anthropic ; Google révèle une IA qui transforme les correctifs en attaques ; faille Java4Shell et fuite France Travail</description>
+      <pubDate>Thu, 19 Nov 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">veille-2026-11-19.mp3</guid>
+      <enclosure url="https://ziryabus.github.io/veille-podcast/episodes/2026-11-19.mp3" length="1212624" type="audio/mpeg"/>
+      <itunes:duration>202</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>NIS2 votée, Nvidia record, OpenAI poursuivi</title>
       <description>Loi Résilience (NIS2) adoptée à l&#x27;Assemblée ; résultats records de Nvidia ; la Californie attaque OpenAI, Microsoft Ignite</description>
       <pubDate>Wed, 18 Nov 2026 07:00:00 +0000</pubDate>

@@ -1,0 +1,51 @@
+<div style="font-family:Arial,Helvetica,sans-serif;max-width:680px;margin:0 auto;color:#1f2937;line-height:1.5;font-size:15px">
+<p style="color:#6b7280;font-size:13px;margin:0">Veille techno · jeudi 19 novembre 2026 · nouvelles du 18 et 19 novembre</p>
+<h1 style="font-size:22px;margin:6px 0 16px">Bonjour Ziryab, voici votre veille</h1>
+
+<div style="background:#eef2ff;border-left:4px solid #4f46e5;padding:12px 16px;margin-bottom:20px">
+<b>L'essentiel en 3 lignes</b>
+<ul style="margin:6px 0 0;padding-left:20px">
+<li>Anthropic fixe son prix à 83 dollars, au-dessus de la fourchette : environ 81 milliards de dollars levés, un record. Première cotation aujourd'hui au Nasdaq.</li>
+<li>Google révèle un outil d'attaque piloté par IA qui transforme seul un correctif publié en attaque, avec des sites français dans le viseur ; une faille Java critique, trouvée par une IA en une heure, touche Jira, Confluence et Jenkins.</li>
+<li>Un pirate met en vente 1,55 million de dossiers attribués à France Travail ; authenticité non confirmée.</li>
+</ul></div>
+
+<h2 style="font-size:17px;border-bottom:1px solid #e5e7eb;padding-bottom:4px">IA et business</h2>
+
+<p><b>Anthropic : 83 dollars l'action, plus grosse introduction en Bourse de l'histoire.</b> Anthropic a annoncé mercredi soir avoir fixé le prix de son introduction à 83 dollars, au-dessus de la fourchette de 70 à 78 dollars. L'offre porte sur 980 millions d'actions (dont environ 956 millions émises par Anthropic), soit environ 81,3 milliards de dollars, devant les 75 milliards levés par SpaceX en juin selon le Wall Street Journal. La valorisation tournerait autour de 1 500 milliards de dollars (chiffre du WSJ, pas d'Anthropic). Cotation au Nasdaq sous le code « ANT » à partir d'aujourd'hui, clôture de l'opération prévue demain.<br>
+<i>Pourquoi c'est important pour vous :</i> un fournisseur d'IA devenu critique pour beaucoup de DSI publiera désormais ses comptes chaque trimestre. C'est aussi un signal fort : les marchés misent sur l'IA d'entreprise malgré les doutes sur les dépenses, et les budgets IA de vos clients ne vont pas se tarir.<br>
+<a href="https://www.anthropic.com/news/anthropic-prices-initial-public-offering">Anthropic, 18 nov.</a> · <a href="https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-sets-record-with-81-3-billion-share-sale-before-nasdaq-debut/">PYMNTS, 18 nov.</a></p>
+
+<p><b>OpenAI lance GPT-6.2 Astra et Sol, moins chers.</b> Disponibles depuis le 17 novembre dans ChatGPT (offres Plus, Pro, Enterprise, Edu), dans Codex et par API. Astra, le modèle haut de gamme, coûte 8 dollars par million de mots-unités (tokens) en entrée et 40 en sortie, 20 % de moins que la version précédente ; Sol, le modèle du quotidien, reste à 2 et 10 dollars. OpenAI classe les deux modèles au niveau « critique » en cybersécurité dans sa grille de risques, d'où des garde-fous renforcés qui bloquent aussi certaines recherches de sécurité légitimes.<br>
+<i>Pourquoi c'est important pour vous :</i> la baisse des prix se poursuit, et l'écart entre modèle haut de gamme et modèle courant se réduit. Les DSI vont devoir arbitrer modèle par modèle : un sujet pour les profils architecture IA et FinOps.<br>
+<a href="https://www.testingcatalog.com/openai-launches-gpt-6-2-astra-and-sol-on-chatgpt-and-apis/">TestingCatalog, 17 nov.</a></p>
+
+<h2 style="font-size:17px;border-bottom:1px solid #e5e7eb;padding-bottom:4px">Cyber</h2>
+
+<p><b>Google : une IA d'attaque transforme seule les correctifs en attaques.</b> Le groupe de renseignement sur les menaces de Google (GTIG) décrit « exploit_agent », un outil récupéré sur un serveur exposé : il compare le code des logiciels web avant et après chaque correctif publié, repère la faille, écrit l'attaque et la lance, sans humain dans la boucle. Premier cas observé en conditions réelles selon Google. Indices d'un opérateur russophone (non attribué officiellement) ; les données des victimes montrent un intérêt pour des sites français des médias, du divertissement et de l'éducation. Google ne publie ni nombre de victimes ni failles exploitées.<br>
+<i>Pourquoi c'est important pour vous :</i> le délai entre un correctif et son exploitation passe de semaines à quelques heures. Les DSI doivent revoir leurs délais de mise à jour et leurs fenêtres de changement : demande forte en responsables des opérations de sécurité et en gestion des vulnérabilités.<br>
+<a href="https://siliconangle.com/2026/11/16/google-says-an-ai-framework-turned-security-patches-into-exploits-with-no-human-in-the-loop/">SiliconANGLE, 16 nov.</a> · <a href="https://labs.cloudsecurityalliance.org/research/csa-research-note-gtig-exploit-agent-patch-diffing-20261118/">Cloud Security Alliance, 18 nov.</a></p>
+
+<p><b>« Java4Shell » : une faille Java critique, trouvée par une IA en une heure.</b> Un chercheur de la société Calif a découvert, avec l'aide d'une IA, une faille dans le décodage Base64 d'OpenJDK (versions 17.0.6 et suivantes, y compris Oracle Java, Corretto, Temurin) sur les serveurs x86 récents (AVX-512). Score de gravité 9,2 sur 10. Une prise de contrôle à distance sans mot de passe a été démontrée sur Jira, Confluence, Jenkins, Keycloak, Artifactory et PingFederate. Oracle a publié les correctifs le 17 novembre ; aucune exploitation publique confirmée à ce stade. Coût de la découverte : moins de 200 dollars, selon l'article.<br>
+<i>Pourquoi c'est important pour vous :</i> ces outils sont au cœur des équipes de développement de presque tous vos clients. Combinée à l'info précédente, c'est un argument concret pour renforcer les équipes de correction et de sécurité applicative.<br>
+<a href="https://www.cyberattaque.org/java4shell-une-faille-decouverte-avec-lia-permet-de-pirater-jira-jenkins-et-confluence-sans-mot-de-passe/">Cyberattaque.org, 17 nov.</a></p>
+
+<p><b>France Travail : 1,55 million de dossiers mis en vente.</b> Mercredi soir, un pirate a proposé sur un forum une base de 1 551 344 dossiers attribuée à France Travail : noms, adresses, e-mails, téléphones, numéros de Sécurité sociale et statut de demandeur d'emploi, à 92 % de moins de 30 ans. Le volume correspond à la fuite de 1,6 million de dossiers de jeunes reconnue en décembre 2025 (accès via le compte d'un agent de Mission locale). Authenticité non confirmée, et France Travail n'a pas communiqué sur cette mise en vente.<br>
+<i>Pourquoi c'est important pour vous :</i> une fuite revient souvent un an plus tard, sous forme de revente. Les numéros de Sécurité sociale exposés nourrissent l'hameçonnage : un sujet de sensibilisation pour les DRH comme pour les RSSI.<br>
+<a href="https://www.cyberattaque.org/france-travail-155-million-de-dossiers-mis-en-vente-issus-de-le-cyberattaque-de-2025/">Cyberattaque.org, 18 nov.</a></p>
+
+<h2 style="font-size:17px;border-bottom:1px solid #e5e7eb;padding-bottom:4px">Cloud et infrastructure</h2>
+
+<p><b>Windows Server 2028 en préversion : l'IA dans les salles serveurs.</b> Présenté à Microsoft Ignite, le futur Windows Server permet de faire tourner des modèles d'IA sur l'infrastructure de l'entreprise, avec des cartes accélératrices (AMD Instinct MI350P annoncée pour le premier semestre 2027). Sécurité renforcée par défaut, gestion des identités des agents IA, gestion des serveurs depuis Intune. Rappel : la fin du support de Windows Server 2016 tombe le 12 janvier 2027.<br>
+<i>Pourquoi c'est important pour vous :</i> l'IA « sur site » devient une option crédible pour les données sensibles, et la fin de Windows Server 2016 dans moins de deux mois va lancer des migrations : besoin de profils infrastructure et de chefs de projet.<br>
+<a href="https://computerworld.com/article/4250505/microsoft-brings-ai-inference-closer-to-enterprise-data-with-windows-server-2028-2.html">Computerworld, 18 nov.</a></p>
+
+<h2 style="font-size:17px;border-bottom:1px solid #e5e7eb;padding-bottom:4px">Vu d'ailleurs</h2>
+<p>Corée du Nord : dans le même rapport, Google décrit un groupe présumé nord-coréen (UNC6836) qui se fait passer pour des recruteurs sur de faux profils afin de piéger des développeurs, puis implante une porte dérobée dans les dépôts de code de leurs entreprises, en visant les assistants de code IA. Google dit avoir désactivé les comptes concernés. Pour un métier comme le vôtre, cela rappelle que l'image du « recruteur » est devenue un vecteur d'attaque, et que les candidats sont de plus en plus méfiants face aux approches.<br>
+<a href="https://siliconangle.com/2026/11/16/google-says-an-ai-framework-turned-security-patches-into-exploits-with-no-human-in-the-loop/">SiliconANGLE, 16 nov.</a></p>
+
+<div style="background:#f0fdf4;border-left:4px solid #16a34a;padding:12px 16px;margin-top:20px">
+<b>Phrase d'accroche pour vos rendez-vous</b><br>
+« Google vient de montrer qu'une IA peut transformer un correctif en attaque en quelques heures. Chez vous, combien de temps faut-il aujourd'hui pour appliquer un correctif critique, et qui en est responsable ? »
+</div>
+</div>

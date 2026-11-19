@@ -1,0 +1,21 @@
+Bonjour Ziryab, nous sommes le jeudi 19 novembre, et voici votre veille du jour.
+
+On commence par la Bourse. Anthropic a fixé hier soir le prix de son introduction à 83 dollars par action, au-dessus de la fourchette annoncée, qui allait de 70 à 78 dollars. Au total, environ 81 milliards de dollars, c'est la plus grosse introduction en Bourse de l'histoire, devant SpaceX en juin. Le Wall Street Journal parle d'une valorisation autour de 1 500 milliards de dollars. Les premières cotations ont lieu aujourd'hui au Nasdaq. Pour vos clients DSI, c'est un fournisseur devenu critique qui publiera désormais ses comptes chaque trimestre. Et c'est un signal : les marchés croient à l'IA d'entreprise.
+
+Toujours dans l'IA, OpenAI a lancé mardi deux nouveaux modèles, GPT-6.2 Astra, le haut de gamme, et Sol, le modèle du quotidien. Astra coûte vingt pour cent de moins que la version précédente. Point notable : OpenAI classe lui-même ces modèles au niveau critique en cybersécurité, et a donc ajouté des garde-fous. Pour les DSI, le choix du modèle devient une affaire de coût autant que de qualité.
+
+Passons à la cyber, avec deux informations qui vont ensemble. D'abord, Google a révélé un outil d'attaque piloté par l'intelligence artificielle, baptisé exploit agent. Son principe : dès qu'un éditeur publie un correctif, l'outil compare le code avant et après, repère la faille, écrit l'attaque et la lance. Sans aucun humain. C'est le premier cas observé en conditions réelles, selon Google. L'opérateur serait russophone, ce n'est pas confirmé officiellement, et des sites français des médias, du divertissement et de l'éducation semblent visés.
+
+Ensuite, une faille critique dans Java, surnommée Java4Shell. Un chercheur l'a trouvée avec l'aide d'une IA, en une heure environ, pour moins de 200 dollars. Elle permet de prendre le contrôle à distance, sans mot de passe, d'outils comme Jira, Confluence ou Jenkins, sur des serveurs récents. Oracle a publié les correctifs mardi, et aucune attaque n'est confirmée pour l'instant.
+
+Pourquoi c'est important pour vous ? Parce que le délai entre un correctif et une attaque passe de plusieurs semaines à quelques heures. Les DSI vont devoir accélérer leurs mises à jour, et renforcer leurs équipes de sécurité et de gestion des vulnérabilités.
+
+Toujours côté cyber, mais en France : un pirate a mis en vente hier soir une base de 1,55 million de dossiers attribuée à France Travail, avec noms, adresses, téléphones et numéros de Sécurité sociale, surtout de jeunes de moins de 30 ans. Le volume correspond à la fuite reconnue en décembre 2025. L'authenticité n'est pas confirmée, et France Travail n'a pas réagi. Un bon rappel pour les DRH : ces données nourrissent l'hameçonnage.
+
+Côté infrastructure, Microsoft a présenté à sa conférence Ignite la préversion de Windows Server 2028, qui permet de faire tourner des modèles d'IA directement dans les salles serveurs de l'entreprise. Et un rappel utile : le support de Windows Server 2016 s'arrête le 12 janvier 2027, dans moins de deux mois. Des migrations en vue, donc des besoins en profils infrastructure.
+
+Vu d'ailleurs, un détail qui touche directement votre métier. Dans son rapport, Google décrit un groupe présumé nord-coréen qui se fait passer pour des recruteurs, avec de faux profils, pour piéger des développeurs et entrer dans le code de leurs entreprises. L'image du recruteur devient un vecteur d'attaque, et les candidats risquent d'être plus méfiants.
+
+Enfin, votre phrase d'accroche pour vos rendez-vous : « Google vient de montrer qu'une IA peut transformer un correctif en attaque en quelques heures. Chez vous, combien de temps faut-il pour appliquer un correctif critique, et qui en est responsable ? »
+
+C'est tout pour aujourd'hui. Bonne journée, Ziryab, et à demain.
