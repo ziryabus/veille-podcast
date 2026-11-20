@@ -13,6 +13,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>Alerte cyber de l&#x27;État, OVHcloud lance son IA</title>
+      <description>Plan cyber de Lecornu ; OVHcloud lance ses modèles Olala ; premier jour d&#x27;Anthropic en Bourse</description>
+      <pubDate>Fri, 20 Nov 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">veille-2026-11-20.mp3</guid>
+      <enclosure url="https://ziryabus.github.io/veille-podcast/episodes/2026-11-20.mp3" length="1354608" type="audio/mpeg"/>
+      <itunes:duration>225</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Anthropic en Bourse, l&#x27;IA qui attaque</title>
       <description>IPO record d&#x27;Anthropic ; Google révèle une IA qui transforme les correctifs en attaques ; faille Java4Shell et fuite France Travail</description>
       <pubDate>Thu, 19 Nov 2026 07:00:00 +0000</pubDate>
