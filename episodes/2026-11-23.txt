@@ -1,0 +1,21 @@
+Bonjour Ziryab, nous sommes le lundi 23 novembre, et voici votre veille, qui couvre aussi le week-end.
+
+On commence par la cybersécurité, avec un hôpital à l'arrêt. Samedi soir, vers vingt et une heures, le CHU de Guadeloupe a subi une cyberattaque de grande ampleur. Plusieurs bases de données ont été chiffrées, les logiciels sont inaccessibles sur les trois sites, et la téléphonie, le laboratoire et la radiologie sont touchés. Le plan blanc a été déclenché dimanche matin. Le directeur général le résume ainsi : « on revient au papier et au crayon ». Les consultations, opérations et examens non urgents sont en partie reportés jusqu'à vendredi. Le SAMU fonctionne. Selon le directeur, l'ANSSI confirme la gravité de l'attaque et suit une piste : un prestataire informatique de l'hôpital, qui aurait été piraté il y a quelques mois. Ce n'est pas encore confirmé. Pour vous, le message est clair : quatre jours après le plan cyber du Premier ministre, un hôpital tombe, et encore une fois par un fournisseur.
+
+Même scénario dans le tourisme. Vendredi, Orchestra, l'éditeur de logiciels de réservation du groupe Travelsoft, a été victime d'une cyberattaque. Résultat : les sites de Leclerc Voyages, Carrefour Voyages et Havas Voyages ne pouvaient plus réserver. Selon TourMaG, des identifiants auraient été dérobés, ce qui reste à confirmer. Les plateformes redémarrent progressivement. Un seul éditeur de niche, et c'est tout un secteur qui s'arrête. Après Visa, Mastercard et la Commission européenne la semaine dernière, la dépendance aux fournisseurs critiques devient le premier risque à expliquer aux comités de direction.
+
+À noter aussi : un week-end chargé en fuites de données revendiquées par des pirates dans le e-commerce, avec Decathlon, GoTronic ou Voyages Rive Gauche. Attention, ce ne sont que des revendications, non confirmées par les entreprises.
+
+Passons à l'intelligence artificielle, avec une histoire très instructive. Le fournisseur américain Together AI a révélé samedi qu'un agent de codage, c'est-à-dire une IA qui écrit du code, avait publié par erreur un mot de passe dans un dépôt public. Un tiers s'en est servi pour télécharger des requêtes de clients datant de l'été. Dans la foulée, la plateforme OpenRouter a écarté trois fournisseurs d'IA, après une étude montrant que certains conservaient les requêtes de leurs clients à leur insu. Deux leçons pour les DSI : un agent de codage doit être encadré comme un développeur, et la promesse « vos données ne sont pas conservées » doit être vérifiée chez chaque fournisseur.
+
+Et toujours sur les agents : selon le magazine Wired, plusieurs grandes banques américaines interdisent désormais aux agents IA tiers de se connecter aux comptes de leurs clients. Les banques, assurances et e-commerçants français vont devoir trancher la même question.
+
+Côté business, vendredi a été une journée noire pour la tech. Le Nasdaq a perdu plus de cinq pour cent et effacé ses gains de l'année. Nvidia a chuté d'environ quatorze pour cent. Et Anthropic, introduite en Bourse à quatre-vingt-trois dollars jeudi, est descendue en séance à quelques centimes de ce prix, avant de terminer en baisse d'environ huit et demi pour cent. Les marchés doutent de la rentabilité de l'IA. Si cela dure, les directions financières de vos clients seront plus exigeantes sur le retour sur investissement des projets IA.
+
+Vu d'ailleurs, aux États-Unis, l'IA devient un sujet politique. Le secrétaire au Trésor attribue la chute des marchés à l'opposition des démocrates à l'IA et à une Réserve fédérale plus dure, sur fond de scepticisme du public envers les centres de données.
+
+Côté nominations, Kirsten Davies, jusqu'ici DSI du ministère américain de la Défense, devient directrice nationale de la cybersécurité à la Maison-Blanche. Pas de nomination repérée en France ce week-end.
+
+Pour finir, votre phrase d'accroche : « Ce week-end, un hôpital et toute la vente de voyages en France ont été arrêtés par l'attaque d'un seul fournisseur. Chez vous, qui connaît la liste des prestataires sans lesquels l'activité s'arrête, et qui en répond devant le comité de direction ? »
+
+Bonne semaine, Ziryab, et à demain.

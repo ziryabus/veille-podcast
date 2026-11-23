@@ -13,6 +13,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>Un hôpital et le tourisme paralysés par leurs fournisseurs</title>
+      <description>CHU de Guadeloupe et Orchestra attaqués ; fuite chez Together AI ; krach des valeurs tech</description>
+      <pubDate>Mon, 23 Nov 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">veille-2026-11-23.mp3</guid>
+      <enclosure url="https://ziryabus.github.io/veille-podcast/episodes/2026-11-23.mp3" length="1300608" type="audio/mpeg"/>
+      <itunes:duration>216</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Récap de la semaine du 16 au 20 novembre</title>
       <description>Anthropic en Bourse · Loi Résilience (NIS2) et plan cyber de Lecornu · L&#x27;IA d&#x27;attaque passe à l&#x27;échelle</description>
       <pubDate>Sat, 21 Nov 2026 07:00:00 +0000</pubDate>
