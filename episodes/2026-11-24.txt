@@ -1,0 +1,19 @@
+Bonjour Ziryab, nous sommes le mardi 24 novembre, et voici votre veille du jour.
+
+En bref : une banque française attaquée, des serveurs d'intelligence artificielle qui coûtent soudain beaucoup plus cher, et le cloud souverain qui progresse, mais lentement.
+
+On commence par la cybersécurité. La Banque Delubac a confirmé une intrusion dans ses systèmes, détectée le vendredi 20 novembre. Bonne nouvelle d'abord : les pirates ont tenté des opérations financières frauduleuses, et elles ont échoué. Mauvaise nouvelle ensuite : des données d'une partie des clients ont été volées. La banque a coupé sa banque en ligne et ses mouvements de fonds jusqu'à lundi, et elle a prévenu l'ACPR et la CNIL. On ne sait pas encore combien de clients sont touchés, ni comment les pirates sont entrés. C'est la deuxième banque française visée en quelques semaines, après Crédit Mutuel Arkéa. Avec le règlement DORA, les banques moyennes doivent prouver qu'elles savent détecter et couper vite. Cela veut dire des besoins en RSSI et en responsables de la résilience opérationnelle.
+
+Toujours en cyber, la santé reste dans le viseur. Un groupe de rançongiciel revendique une attaque contre le CHU de Bordeaux et menace de publier des dossiers de patients. Attention, c'est une revendication, rien n'est confirmé. Le CHU de Guadeloupe, lui, est toujours en plan blanc. Et du côté de l'industrie, Nissan confirme qu'une cyberattaque bloque une partie de son système de diagnostic, et donc des réparations, depuis une dizaine de jours.
+
+Passons au cloud et aux infrastructures. Selon le Financial Times, des fournisseurs comme Dell et HPE ont demandé jusqu'à 45 pour cent de hausse sur des serveurs d'intelligence artificielle, plusieurs mois après la signature des contrats. La pénurie de mémoire et de puces se répercute directement sur les budgets. Pour vos clients DSI, c'est un vrai sujet : renégocier, décaler des achats, ou passer par le cloud. Les profils achats informatiques et FinOps ont une carte à jouer.
+
+Justement, le cloud souverain. Une enquête publiée lundi, d'après Reuters, fait le point. La demande explose chez les acteurs européens : Nextcloud dit l'avoir vue multipliée par cinq environ, et T-Systems par plus de quatre depuis mi-2025. La Commission européenne a attribué jusqu'à 180 millions d'euros de contrats souverains, notamment à Scaleway et StackIT. Mais la réalité du marché est têtue : Amazon, Microsoft et Google gardent plus de 70 pour cent du marché européen, et une migration prend souvent un à deux ans. Retenez que la souveraineté devient un critère d'achat, surtout dans le public et les secteurs régulés. Les DSI capables de piloter ce genre de migration sont recherchés.
+
+Côté intelligence artificielle, deux infos rapides. Selon Semafor, OpenAI exige désormais que les intermédiaires qui revendent l'accès à ses modèles obtiennent son autorisation. Pour les entreprises, cela signifie vérifier que leur fournisseur est bien agréé. Et Meta réexamine son objectif de neutralité carbone pour 2030 : ses émissions ont bondi d'environ 40 pour cent en un an, à cause de ses centres de données. L'empreinte carbone de l'IA va entrer dans les rapports de durabilité de vos clients.
+
+Vu d'ailleurs : selon le secrétaire américain au Trésor, cité par Reuters, Donald Trump et Xi Jinping sont convenus que les décisions militaires majeures utilisant l'IA doivent rester sous contrôle humain. C'est un engagement politique, sans règles précises pour l'instant, mais c'est un signal de dialogue entre les deux puissances.
+
+Pour finir, votre phrase d'accroche pour vos rendez-vous : « Les fournisseurs de serveurs IA demandent jusqu'à 45 pour cent de plus après signature, et l'Europe pousse au cloud souverain. Qui chez vous arbitre aujourd'hui entre coût, souveraineté et vitesse ? »
+
+Bonne journée Ziryab, et à demain.
