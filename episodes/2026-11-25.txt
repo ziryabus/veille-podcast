@@ -1,0 +1,25 @@
+Bonjour Ziryab, nous sommes le mercredi 25 novembre, et voici votre veille du jour.
+
+En bref : le plus gros rachat de l'histoire de la cybersécurité, une série d'attaques contre le secteur public français, et le retour surprise de Jensen Huang à la tête de Nvidia.
+
+On commence par ce rachat. CrowdStrike, spécialiste de la protection des postes de travail, rachète Zscaler, champion de la sécurité réseau dite « zero trust ». Montant : quarante-trois virgule neuf milliards de dollars, payés entièrement en actions, avec une prime de trente-quatre pour cent pour les actionnaires de Zscaler. C'est plus que le rachat de Wiz par Google. Le fondateur de Zscaler, Jay Chaudhry, reste aux commandes et entre au conseil de CrowdStrike. La clôture est attendue fin 2027, si les régulateurs l'acceptent. Côté clients, l'inquiétude porte sur les prix et sur une migration forcée vers la plateforme de CrowdStrike.
+
+Pourquoi c'est important pour vous ? La sécurité se concentre chez quelques éditeurs. Les DSI et les RSSI vont devoir mesurer leur dépendance, renégocier, et préparer un plan B. C'est un sujet de gouvernance, et un besoin en profils achats et architecture.
+
+Restons sur la cybersécurité, mais en France, où le secteur public encaisse. La Direction générale de l'aviation civile a prévenu mardi ses usagers d'une intrusion, du 5 au 9 novembre, sur sa plateforme de paiement des redevances. Pilotes, écoles de pilotage et ateliers de maintenance sont concernés : identités, adresses, mots de passe protégés et une partie des données de carte bancaire. Selon la DGAC, aucun moyen de paiement complet n'a été volé, et les passagers ne sont pas touchés. L'Institut national du cancer confirme, lui, un vol de données personnelles, détecté le 18 novembre ; son site reste en maintenance et la CNIL est saisie. Aucune donnée médicale compromise n'est confirmée. Enfin, la ville de Quimper et son agglomération reconnaissent une cyberattaque qui perturbe leurs systèmes.
+
+Pourquoi c'est important pour vous ? Une semaine après le plan du Premier ministre, qui impose cinq pour cent du budget numérique à la cybersécurité, l'État, la santé et les collectivités continuent de tomber, souvent par un prestataire. Les postes de RSSI dans le public vont se multiplier.
+
+Un mot sur la Norvège. Les énergéticiens Equinor et Skagerak ont déclaré des cyberattaques. L'autorité norvégienne de sécurité pointe une faille du service Azure API Management de Microsoft, utilisée pour voler des jetons d'accès, et demande de renouveler tous les secrets. Microsoft dit avoir corrigé le 19 novembre. Le lien direct avec les deux entreprises n'est pas prouvé publiquement. Une bonne question pour un DSI : qui gère chez vous la rotation des secrets dans le cloud ?
+
+Passons à l'intelligence artificielle. Amazon rachète la technologie d'optimisation de la start-up israélienne Decart, pour faire tourner les modèles d'IA plus efficacement sur ses propres puces, et concurrencer Nvidia. Le prix de sept virgule cinq milliards de dollars est rapporté par Bloomberg, mais pas confirmé. Pour vos clients qui subissent la hausse du prix des serveurs IA, c'est plutôt une bonne nouvelle.
+
+Les agents IA, eux, changent d'échelle. Sierra, qui fait des agents de service client, lève un virgule soixante-quinze milliard de dollars, valorisée trente milliards, le double de mai. Et Anthropic lance en test Claude Ship, des agents qui relisent le code et valident une partie des modifications. Il faudra des dirigeants capables de gouverner ces agents : qui valide, qui est responsable, combien ça coûte.
+
+Côté dirigeants, Nvidia a réintégré lundi Jensen Huang comme PDG, à l'unanimité, onze jours après son départ. Le conseil dit avoir reçu des garanties du gouvernement américain, crée un comité sécurité nationale et contrôle des exportations, et recrute un directeur de la conformité. L'enquête interne continue.
+
+Vu d'ailleurs : au Royaume-Uni, le système de santé lance un essai de dépistage du cancer du sein assisté par l'IA, auprès d'environ sept cent mille femmes sur trois ans. Et aux États-Unis, l'Oregon et la Virginie attaquent en justice les sociétés liées à l'IA Grok, pour des images sexuelles générées sans consentement.
+
+Votre phrase d'accroche du jour : « CrowdStrike rachète Zscaler pour quarante-quatre milliards. Si votre sécurité repose sur deux ou trois éditeurs, qui chez vous mesure la dépendance et prépare la renégociation ? »
+
+Bonne journée Ziryab, et à demain.
