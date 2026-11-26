@@ -13,6 +13,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>Microsoft en Code Red, l&#x27;IA attaque seule</title>
+      <description>Code Red chez Microsoft après la panne M365 ; la Bourse sanctionne l&#x27;infrastructure IA ; un agent IA exploite seul une faille</description>
+      <pubDate>Thu, 26 Nov 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">veille-2026-11-26.mp3</guid>
+      <enclosure url="https://ziryabus.github.io/veille-podcast/episodes/2026-11-26.mp3" length="1311120" type="audio/mpeg"/>
+      <itunes:duration>218</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>CrowdStrike rachète Zscaler, le public français attaqué</title>
       <description>CrowdStrike-Zscaler à 44 Md$ ; DGAC, INCa et Quimper attaqués ; retour de Jensen Huang chez Nvidia</description>
       <pubDate>Wed, 25 Nov 2026 07:00:00 +0000</pubDate>
