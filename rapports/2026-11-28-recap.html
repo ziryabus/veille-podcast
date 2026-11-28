@@ -1,0 +1,95 @@
+<div style="font-family:Arial,Helvetica,sans-serif;max-width:680px;margin:0 auto;color:#1f2937;line-height:1.5;font-size:15px">
+<p style="color:#6b7280;font-size:13px;margin:0">Récap veille techno · samedi 28 novembre 2026 · semaine du 23 au 27 novembre</p>
+<h1 style="font-size:22px;margin:6px 0 16px">Bonjour Ziryab, voici le récap de la semaine</h1>
+
+<div style="background:#eef2ff;border-left:4px solid #4f46e5;padding:12px 16px;margin-bottom:20px">
+<b>La semaine en 3 lignes</b>
+<ul style="margin:6px 0 0;padding-left:20px">
+<li>Une semaine cyber « d'une intensité sans précédent » (LeMagIT recense 48 attaques dans le monde) : CHU de Guadeloupe, AFP, OPCO EP, Banque Delubac, DGAC, puis 1Password et SAP piratés via GitHub. Le point commun : un prestataire ou un compte de développeur.</li>
+<li>La sécurité se concentre et les grands fournisseurs vacillent : CrowdStrike rachète Zscaler pour 43,9 milliards de dollars, Microsoft passe en « Code Red » après la pire panne de l'histoire d'Exchange Online.</li>
+<li>La facture de l'IA est sous pression : serveurs jusqu'à 45 % plus chers après commande, quotas OpenAI resserrés, Nvidia qui gèle ses livraisons en Asie du Sud-Est. La Bourse rebondit pourtant vendredi : meilleure semaine du Dow depuis 2022.</li>
+</ul></div>
+
+<h2 style="font-size:17px;border-bottom:1px solid #e5e7eb;padding-bottom:4px">Les 10 infos les plus marquantes</h2>
+
+<p><b>1. CrowdStrike avale Zscaler pour 43,9 milliards de dollars.</b> Annoncé lundi, l'accord se fait entièrement en actions (1,135 action CrowdStrike par action Zscaler, prime de 34 % selon The Register). C'est la plus grosse acquisition de l'histoire de la cyber, devant Wiz par Google. Le groupe vise plus de 10 milliards de dollars de revenus récurrents ; clôture attendue fin 2027, sous réserve des régulateurs. Des administrateurs craignent hausses de prix et migration forcée (réactions en ligne, pas une enquête).<br>
+<i>Pourquoi c'est important pour vous :</i> les DSI et RSSI vont devoir mesurer leur dépendance à un éditeur unique et préparer la renégociation : un sujet de gouvernance, d'achats IT et d'architecture sécurité.<br>
+<a href="https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/">TechCrunch, 23 nov.</a> · <a href="https://www.theregister.com/security/2026/11/24/crowdstrike-splashes-44b-on-zscaler-customers-brace-for-the-bill/5311877">The Register, 24 nov.</a> · <a href="https://www.lemagit.fr/actualites/366655452/CrowdStrike-absorbe-Zscaler-consolidation-et-convergence-des-plateformes">LeMagIT, 24 nov.</a></p>
+
+<p><b>2. Microsoft déclenche un « Code Red » après sa panne historique.</b> Selon des notes internes consultées par Reuters, Microsoft a activé son niveau d'alerte maximal après la panne des 12 et 13 novembre : plus de 24 heures sans Exchange Online, Outlook, Teams ni Copilot pour une partie des clients, administrations comprises. En cause, un défaut de montée en charge introduit en juillet, sans lien avec une attaque. Le président de M365 Core parle de l'incident le plus pénalisant de l'histoire d'Exchange Online ; le rapport post-incident compte 13 actions.<br>
+<i>Pourquoi c'est important pour vous :</i> la continuité de la messagerie et de la collaboration redevient un sujet de comité de direction. Demande de profils résilience, SRE, observabilité et gestion des fournisseurs.<br>
+<a href="https://www.itnews.com.au/news/microsoft-declares-code-red-after-historic-outage-630589">iTnews (Reuters), 25 nov.</a> · <a href="https://www.ciodive.com/news/microsoft-outage-puts-observability-in-focus/875791/">CIO Dive, 25 nov.</a></p>
+
+<p><b>3. Les agents IA attaquent pour de vrai.</b> Amazon décrit un agent, bâti sur l'outil open source Cairn, qui a trouvé et exploité seul une faille inconnue sur un serveur universitaire en Asie, en 11 minutes environ (attribution à un pirate chinois rapportée, non confirmée). Jeudi, l'Office fédéral suisse de la cybersécurité a confirmé cinq attaques menées par des « frameworks offensifs agentiques », dont quatre intrusions réussies, trois chez des opérateurs d'électricité, d'eau et de télécoms. Les portes d'entrée restent classiques : mots de passe faibles et failles connues.<br>
+<i>Pourquoi c'est important pour vous :</i> le délai entre faille et exploitation tombe à quelques minutes. Les basiques (correctifs, MFA, surface exposée) redeviennent urgents et la défense doit s'automatiser : besoin de RSSI orientés opérations et de profils SOC.<br>
+<a href="https://gizmodo.com/amazon-says-open-source-ai-agent-mostly-autonomously-exploited-a-zero-day-2000844891">Gizmodo, 24 nov.</a> · <a href="https://www.analyticsinsight.net/news/switzerland-warns-of-faster-cyberattacks-as-ai-agents-enter-the-picture">Analytics Insight (Reuters), 26 nov.</a></p>
+
+<p><b>4. 1Password, puis SAP : le compte GitHub d'un développeur comme porte d'entrée.</b> 1Password confirme qu'un attaquant a pris le contrôle du compte GitHub d'un salarié, accédé à la chaîne d'intégration et volé des données administratives de clients (noms, e-mails, identifiants de compte) ; les coffres et mots de passe n'ont pas été touchés selon l'éditeur. Vendredi, SAP a confirmé à Reuters avoir détecté des « activités suspectes » et pris des mesures, sans preuve à ce stade d'accès aux données métier de ses clients. Selon Der Spiegel et Handelsblatt (non confirmé par SAP), des jetons de salariés auraient permis de copier ou modifier du code sur GitHub ; SAP aurait restreint GitHub, suspendu des automatisations et changé ses clés de signature (opération « Project Granite »). Rien n'indique qu'un logiciel compromis ait été livré aux clients.<br>
+<i>Pourquoi c'est important pour vous :</i> si SAP est touché, toutes les DSI qui en dépendent vont poser des questions. La sécurité de la chaîne logicielle (comptes de développeurs, CI/CD, clés de signature) devient une compétence de premier plan : DevSecOps, sécurité applicative.<br>
+<a href="https://www.helpnetsecurity.com/2026/11/26/1password-breach-github-customer-records/">Help Net Security, 26 nov.</a> · <a href="https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaque-chez-sap-des-soupcons-d-acces-au-code-source-sur-github">Le Monde Informatique, 27 nov.</a></p>
+
+<p><b>5. L'AFP coupée de ses clients.</b> Dans la nuit de mercredi à jeudi, vers 1 h 30, une cyberattaque a visé AFP Forum, la plateforme par laquelle les médias récupèrent dépêches, photos et vidéos. Elle a été isolée et reste indisponible « jusqu'à nouvel ordre » ; les clients passent par des canaux de secours. Ni auteur, ni vol de données, ni rançongiciel ne sont confirmés. Le même jour, sur France Inter, le directeur de l'ANSSI Vincent Strubel a décrit une menace d'un niveau sans précédent et appelé à une action collective.<br>
+<i>Pourquoi c'est important pour vous :</i> la plateforme de distribution, c'est le cœur du métier. Les médias et éditeurs de contenus ont besoin de RSSI qui pensent continuité d'activité, pas seulement protection.<br>
+<a href="https://www.aljazeera.com/news/2026/11/27/global-news-agency-afp-reports-cyberattack-shuts-down-content-platform">Al Jazeera (AFP), 27 nov.</a> · <a href="https://www.cyberattaque.org/cyberattaque-afp-agence-france-presse/">Cyberattaque.org, 26 nov.</a></p>
+
+<p><b>6. Santé, État, collectivités : le public français en première ligne.</b> Le CHU de Guadeloupe est en plan blanc depuis le 21 novembre (retour au papier, soins non urgents déprogrammés jusqu'au 27, piste d'un prestataire piraté non confirmée). Le CHU de Bordeaux fait l'objet d'une revendication de rançongiciel non vérifiée. La DGAC a signalé une intrusion sur sa plateforme de paiement des redevances (données en partie bancaires de pilotes et d'écoles), l'Institut national du cancer une violation de données personnelles, et Quimper et son agglomération une cyberattaque.<br>
+<i>Pourquoi c'est important pour vous :</i> une semaine après le plan Lecornu (5 % du budget numérique des ministères pour la cyber), les incidents s'enchaînent. Les postes de RSSI, de responsables continuité et de sécurité des prestataires vont se multiplier dans les hôpitaux, l'État et les collectivités.<br>
+<a href="https://imazpress.com/france-monde/guadeloupe-chu-cyberattaque">Imaz Press (AFP), 23 nov.</a> · <a href="https://www.generation-nt.com/actualites/piratage-dgac-donnees-pilotes-cryptogrammes-2085034">Génération NT, 25 nov.</a> · <a href="https://www.lemagit.fr/actualites/366655521/Cyberhebdo-du-27-novembre-2026-une-semaine-dune-intensite-sans-precedent">LeMagIT, Cyberhebdo du 27 nov.</a></p>
+
+<p><b>7. OPCO EP coupe ses services à quelques jours d'une échéance.</b> L'opérateur de compétences, qui accompagne 442 700 entreprises et 2,5 millions de salariés, confirme un incident de cybersécurité détecté le 26 novembre et a suspendu ses portails : demandes de financement, factures des organismes de formation, contrats d'apprentissage. Beaucoup de demandes de prise en charge doivent arriver avant le 30 novembre ; aucun report n'était annoncé dans nos sources vendredi soir. Origine et vol de données non confirmés.<br>
+<i>Pourquoi c'est important pour vous :</i> un sujet direct pour vos interlocuteurs DRH. La cyber devient un risque RH et financier.<br>
+<a href="https://www.cyberattaque.org/cyberattaque-chez-opco-ep-lorganisme-qui-accompagne-442-700-entreprises-francaises-suspend-ses-services/">Cyberattaque.org, 26 nov.</a></p>
+
+<p><b>8. Banques et éditeurs : Delubac et Septeo confirment.</b> La Banque Delubac a détecté une intrusion le 20 novembre : des virements frauduleux ont été tentés sans succès, mais des données d'une partie des clients ont été volées ; banque en ligne coupée jusqu'au lundi, ACPR et CNIL informées. L'éditeur Septeo (logiciels pour avocats, notaires, immobilier) confirme de son côté un vol de données clients après une intrusion détectée le 22 novembre (contacts, tickets de support, facturation).<br>
+<i>Pourquoi c'est important pour vous :</i> avec DORA en vigueur, les banques moyennes doivent prouver qu'elles détectent et coupent vite. Et un éditeur métier piraté, ce sont des centaines de clients exposés : besoin de RSSI et de responsables de la résilience opérationnelle.<br>
+<a href="https://www.cyberattaque.org/banque-delubac-des-pirates-echouent-a-voler-de-largent-mais-derobent-des-donnees-clients/">Cyberattaque.org, 24 nov.</a> · <a href="https://www.lemagit.fr/actualites/366655521/Cyberhebdo-du-27-novembre-2026-une-semaine-dune-intensite-sans-precedent">LeMagIT, 27 nov.</a></p>
+
+<p><b>9. Infrastructure IA : factures en hausse, Bourse en montagnes russes.</b> Selon le Financial Times, Dell et HPE ont réclamé jusqu'à 45 % de hausse sur des serveurs IA déjà commandés. Mardi et mercredi, HPE (-16 %) et Dell (-7 %) ont été sanctionnés malgré des prévisions relevées. Puis vendredi, rebond général : Nasdaq +2,3 %, et sur la semaine Nasdaq +6,7 % et Dow +5,5 %, sa meilleure semaine depuis 2022. Anthropic gagne environ 11 à 12 % vendredi, vers 92 dollars, après deux séances sous son prix d'introduction de 83 dollars.<br>
+<i>Pourquoi c'est important pour vous :</i> les marchés hésitent sur la rentabilité de l'IA, et cette hésitation descend jusqu'aux budgets des DSI. Les directions générales demanderont des cas d'usage chiffrés : terrain pour les profils FinOps et pilotage de la valeur.<br>
+<a href="https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f">Financial Times</a> · <a href="https://finance.yahoo.com/markets/stocks/articles/stock-market-today-major-indexes-140450439.html">Yahoo Finance (Investopedia), 27 nov.</a></p>
+
+<p><b>10. Nvidia : Jensen Huang revient, les puces se ferment à l'Asie du Sud-Est.</b> Le conseil de Nvidia a réintégré Jensen Huang comme PDG le 23 novembre, onze jours après son départ, et crée un comité sécurité nationale et contrôle des exportations ; l'enquête interne se poursuit. Selon le Financial Times repris par Reuters, Nvidia a ensuite demandé à ses partenaires de suspendre les livraisons de serveurs vers la Malaisie, Singapour, la Thaïlande et l'Indonésie, à la suite de nouvelles règles américaines d'export. Moody's a abaissé la perspective de Nvidia à « stable », S&P l'a placée sous surveillance négative.<br>
+<i>Pourquoi c'est important pour vous :</i> l'accès au calcul devient géopolitique. Pour les groupes présents en Asie, la localisation des capacités IA entre dans les plans de risque, avec de nouveaux postes de conformité export.<br>
+<a href="https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director">Communiqué Nvidia, 23 nov.</a> · <a href="https://www.taipeitimes.com/News/biz/archives/2026/11/27/2003868455">Taipei Times (Reuters), 27 nov.</a></p>
+
+<h2 style="font-size:17px;border-bottom:1px solid #e5e7eb;padding-bottom:4px">3 tendances de fond</h2>
+<ol style="padding-left:20px">
+<li><b>Le fournisseur est devenu le maillon faible.</b> Orchestra (voyages), le prestataire du CHU de Guadeloupe, Septeo, la DGAC via un sous-traitant, 1Password et SAP via GitHub, et même Microsoft par sa propre panne : cette semaine, presque chaque crise est venue d'un tiers. La gestion du risque fournisseurs et la continuité d'activité montent au niveau du comité de direction.</li>
+<li><b>L'attaque s'automatise plus vite que la défense.</b> Amazon, la Suisse, Microsoft (qui décrit des acteurs étatiques utilisant l'outil ARTEX) : les agents IA offensifs sont désormais documentés. Ils n'inventent pas de nouvelles techniques, ils vont plus vite et ne se lassent pas. Les RSSI vont devoir automatiser à leur tour, et la pénurie de profils SOC et sécurité cloud va s'aggraver.</li>
+<li><b>L'IA coûte plus cher que prévu, et ça se voit.</b> Serveurs renchéris après signature, quotas OpenAI resserrés deux fois en une semaine, contrôles d'export, volatilité boursière : le coût réel de l'IA bouge chaque semaine. La fonction FinOps appliquée à l'IA et la négociation des contrats avec les éditeurs deviennent stratégiques.</li>
+</ol>
+
+<h2 style="font-size:17px;border-bottom:1px solid #e5e7eb;padding-bottom:4px">Vu d'ailleurs</h2>
+<ul style="padding-left:20px">
+<li><b>Norvège :</b> l'autorité nationale de sécurité relie des attaques contre l'énergie (Equinor, Skagerak) à une menace exploitant Azure API Management, et demande de considérer tous les secrets concernés comme compromis ; Microsoft dit avoir fermé la faille le 19 novembre. <a href="https://www.lemagit.fr/actualites/366655435/Cyberattaques-en-Norvege-une-vulnerabilite-affectait-Microsoft-API-Manager">LeMagIT</a></li>
+<li><b>Royaume-Uni :</b> la FCA publie ses attentes sur l'IA « agentique » dans la finance, pour les entreprises et leurs fournisseurs. <a href="https://www.fca.org.uk/firms/innovation/ai-approach/agentic-ai">FCA</a></li>
+<li><b>Canada :</b> Ottawa porte son fonds d'accès au calcul IA à 1 milliard de dollars canadiens, en favorisant le calcul détenu et exploité au Canada. Une souveraineté par la demande, que l'Europe observe. <a href="https://thenextweb.com/news/canada-ai-compute-access-fund-700m-expansion">The Next Web</a></li>
+<li><b>États-Unis :</b> plusieurs grandes banques interdisent aux agents IA tiers de se connecter aux comptes de leurs clients. <a href="https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/">Wired</a></li>
+</ul>
+
+<h2 style="font-size:17px;border-bottom:1px solid #e5e7eb;padding-bottom:4px">Mouvements de dirigeants IT</h2>
+<ul style="padding-left:20px">
+<li><b>Nvidia :</b> Jensen Huang réintégré PDG ; Colette Kress reste directrice financière ; création d'un poste de Chief Compliance Officer.</li>
+<li><b>Maison-Blanche :</b> Kirsten Davies, DSI du ministère américain de la Défense, devient directrice nationale de la cybersécurité. <a href="https://www.cisotribune.com/moves/united-states-government-white-house-kirsten-davies">CISO Tribune</a></li>
+<li><b>CrowdStrike :</b> Jay Chaudhry, fondateur de Zscaler, entrera au conseil d'administration après le rachat.</li>
+<li>Pas de nomination de DSI ou de RSSI repérée en France cette semaine dans nos sources.</li>
+</ul>
+
+<h2 style="font-size:17px;border-bottom:1px solid #e5e7eb;padding-bottom:4px">À surveiller la semaine prochaine</h2>
+<ul style="padding-left:20px">
+<li><b>30 novembre :</b> échéance des demandes de prise en charge chez OPCO EP : report ou non, et retour des services.</li>
+<li><b>30 novembre au 4 décembre :</b> AWS re:Invent à Las Vegas, avec les agents IA et l'économie du cloud au programme.</li>
+<li><b>1er décembre :</b> débat en commission au Parlement européen sur le Cloud and AI Development Act (date annoncée la semaine dernière).</li>
+<li><b>SAP :</b> premiers résultats de l'enquête « Project Granite » ; savoir si du code livré aux clients a été touché.</li>
+<li><b>Décembre :</b> déploiement élargi des nouveaux quotas fusionnés de ChatGPT ; durée du gel des livraisons Nvidia en Asie du Sud-Est.</li>
+<li><b>NIS2 :</b> convocation toujours attendue de la commission mixte paritaire sur la loi Résilience.</li>
+</ul>
+
+<div style="background:#ecfdf5;border-left:4px solid #059669;padding:12px 16px;margin:20px 0">
+<b>3 phrases d'accroche pour vos rendez-vous</b>
+<ol style="margin:6px 0 0;padding-left:20px">
+<li>« Cette semaine, SAP et 1Password ont été touchés par le compte GitHub d'un développeur. Chez vous, qui sait combien de comptes ont accès à votre code et à vos clés de signature ? »</li>
+<li>« CrowdStrike rachète Zscaler, Microsoft passe en Code Red : si un de vos deux ou trois grands fournisseurs flanche ou augmente ses prix de 30 %, qui a le plan B ? »</li>
+<li>« L'OPCO EP a coupé ses services à quatre jours d'une échéance de financement. Votre DRH sait-il ce qui se passe pour la paie et la formation si un prestataire tombe ? »</li>
+</ol></div>
+</div>
